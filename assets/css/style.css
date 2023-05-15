@@ -618,3 +618,7 @@ a.icon-up-bg:hover {
     color: #fff;
     text-align: center;
 }
+
+iframe {
+    border: none;
+}
